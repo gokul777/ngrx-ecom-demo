@@ -2,11 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
-##Application Details
+## Application Details
 
-Application fetches data from service api endpoint - here from local path with mock json data
-Responsive layout for both mobile and desktop
-Modal dialog shows product details with add to cart information on clicking add to cart
+# Application fetches data from service api endpoint - here from local path with mock json data
+# Responsive layout for both mobile and desktop
+# Modal dialog shows product details with add to cart information on clicking add to cart
 NgRX store - Add the products to cart on clicking add to cart button - cart is maintained with a simple NgRX store, reducers and actions.
 Uit test cases just included - not completed
 NgRX version - 13.0.2
