@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Application Details
 
 - Application fetches data from service api endpoint - here from local path with mock json data
+- Created re-usable components for modal dialog and product card
 - Responsive layout for both mobile and desktop
 - Modal dialog shows product details with add to cart information on clicking add to cart
 - NgRX store - Add the products to cart on clicking add to cart button - cart is maintained with a simple NgRX store, reducers and actions.
